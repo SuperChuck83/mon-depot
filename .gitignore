@@ -1,0 +1,4 @@
+#un commentaire ( point dexclamation = sauf fichier en question )
+/log
+!/log/.gitkeep
+config.yaml
